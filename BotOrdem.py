@@ -124,5 +124,5 @@ async def on_ready():
     else:
         print("Canal não encontrado.")
 
-bot.run('MTEyODczMzg2Njg5OTgxNjQ2OA.GVKJu_.jubjnbsI-xovHslfoaGe8VLhGhXHA6UB7UlBmY')
+bot.run(SEU_TOKEN)
 
